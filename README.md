@@ -43,6 +43,11 @@ Detect fraudulent transactions in mobile payment systems using **Machine Learnin
      - Precision, Recall, F1-Score
      - AUC-PR
      - Confusion Matrix
+## 📊 Model Performance Comparison
+
+![Model Comparison](Model Comparision.png)
+
+
 
 5. **⏱️ Timed Comparison**
    - Compared training and prediction times across models
