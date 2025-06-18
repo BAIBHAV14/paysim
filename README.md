@@ -45,7 +45,7 @@ Detect fraudulent transactions in mobile payment systems using **Machine Learnin
      - Confusion Matrix
 ## 📊 Model Performance Comparison
 
-![Model Comparison](Model Comparision.png)
+![Model Comparison](Model Comparision.PNG)
 
 
 
